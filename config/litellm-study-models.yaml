@@ -1,0 +1,123 @@
+# LiteLLM gateway entries for the 10 study models. Every request is pinned to one
+# OpenRouter provider with fallback disabled; the key is read from the environment.
+model_list:
+  - model_name: gpt-5.6-sol
+    litellm_params:
+      model: openrouter/openai/gpt-5.6-sol
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [openai]
+          allow_fallbacks: false
+    model_info:
+      route_provider: openai
+      route_model: openai/gpt-5.6-sol
+      allow_fallbacks: false
+  - model_name: claude-haiku-4.5
+    litellm_params:
+      model: openrouter/anthropic/claude-haiku-4.5
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [anthropic]
+          allow_fallbacks: false
+    model_info:
+      route_provider: anthropic
+      route_model: anthropic/claude-haiku-4.5
+      allow_fallbacks: false
+  - model_name: gemini-3.7-flash
+    litellm_params:
+      model: openrouter/google/gemini-3.7-flash
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [google-ai-studio]
+          allow_fallbacks: false
+    model_info:
+      route_provider: google-ai-studio
+      route_model: google/gemini-3.7-flash
+      allow_fallbacks: false
+  - model_name: mistral-large-2512
+    litellm_params:
+      model: openrouter/mistralai/mistral-large-2512
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [mistral/eu]
+          allow_fallbacks: false
+    model_info:
+      route_provider: mistral/eu
+      route_model: mistralai/mistral-large-2512
+      allow_fallbacks: false
+  - model_name: llama-3.3-70b-instruct
+    litellm_params:
+      model: openrouter/meta-llama/llama-3.3-70b-instruct
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [deepinfra]
+          allow_fallbacks: false
+    model_info:
+      route_provider: deepinfra
+      route_model: meta-llama/llama-3.3-70b-instruct
+      allow_fallbacks: false
+  - model_name: gemini-3.5-flash-lite
+    litellm_params:
+      model: openrouter/google/gemini-3.5-flash-lite
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [google-ai-studio]
+          allow_fallbacks: false
+    model_info:
+      route_provider: google-ai-studio
+      route_model: google/gemini-3.5-flash-lite
+      allow_fallbacks: false
+  - model_name: mistral-small-2603
+    litellm_params:
+      model: openrouter/mistralai/mistral-small-2603
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [mistral/eu]
+          allow_fallbacks: false
+    model_info:
+      route_provider: mistral/eu
+      route_model: mistralai/mistral-small-2603
+      allow_fallbacks: false
+  - model_name: phi-4
+    litellm_params:
+      model: openrouter/microsoft/phi-4
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [deepinfra]
+          allow_fallbacks: false
+    model_info:
+      route_provider: deepinfra
+      route_model: microsoft/phi-4
+      allow_fallbacks: false
+  - model_name: deepseek-v4-flash-0731
+    litellm_params:
+      model: openrouter/deepseek/deepseek-v4-flash-0731
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [deepinfra/fp8]
+          allow_fallbacks: false
+    model_info:
+      route_provider: deepinfra/fp8
+      route_model: deepseek/deepseek-v4-flash-0731
+      allow_fallbacks: false
+  - model_name: gpt-5.4-nano
+    litellm_params:
+      model: openrouter/openai/gpt-5.4-nano
+      api_key: os.environ/OPENROUTER_API_KEY
+      extra_body:
+        provider:
+          only: [openai]
+          allow_fallbacks: false
+    model_info:
+      route_provider: openai
+      route_model: openai/gpt-5.4-nano
+      allow_fallbacks: false

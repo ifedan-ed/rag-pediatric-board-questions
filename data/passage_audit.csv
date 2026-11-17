@@ -1,0 +1,361 @@
+qid,rating,passage_ratings_in_rank_order,sufficient_to_identify_key,a_passage_supports_key,passages_support_another_option
+186,primary,relevant; irrelevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+196,primary,partly relevant; relevant; relevant; relevant; relevant; relevant; partly relevant,True,True,True
+215,primary,irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+216,primary,irrelevant; irrelevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant,True,True,False
+219,primary,relevant; relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,True,True,False
+223,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+232,primary,relevant; partly relevant; partly relevant; relevant; irrelevant; relevant; partly relevant,True,True,False
+260,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+266,primary,partly relevant; relevant; partly relevant; relevant; relevant; irrelevant; partly relevant,True,True,False
+286,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,True
+288,primary,partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+294,primary,partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+295,primary,relevant; partly relevant; relevant; irrelevant; partly relevant; relevant; irrelevant,True,True,False
+297,primary,irrelevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+310,primary,relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant; irrelevant,True,True,False
+316,primary,relevant; relevant; relevant; relevant; partly relevant; partly relevant; relevant,True,True,False
+318,primary,partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+331,primary,relevant; partly relevant; relevant; partly relevant; relevant; partly relevant; irrelevant,True,True,False
+334,primary,relevant; relevant; relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+343,primary,irrelevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,True,False
+357,primary,partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,True
+358,primary,partly relevant; relevant; irrelevant; irrelevant; irrelevant; partly relevant; partly relevant,False,False,False
+359,primary,relevant; relevant; relevant; relevant; relevant; relevant; partly relevant; irrelevant,True,True,False
+360,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+371,primary,relevant; relevant; relevant; irrelevant; partly relevant; irrelevant; partly relevant,True,True,True
+373,primary,relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+375,primary,relevant; partly relevant; relevant; relevant; relevant; partly relevant; relevant,True,True,False
+379,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+382,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+383,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; irrelevant,True,True,True
+384,primary,relevant; relevant; partly relevant; partly relevant; relevant; irrelevant; partly relevant,True,True,False
+386,primary,irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+392,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+397,primary,partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+403,primary,irrelevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,True
+407,primary,irrelevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+410,primary,relevant; relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,False
+414,primary,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+425,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+427,primary,relevant; relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,True,True,False
+434,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant,False,False,True
+436,primary,relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,True
+453,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+458,primary,partly relevant; partly relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,True
+463,primary,relevant; irrelevant; relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+469,primary,relevant; partly relevant; relevant; irrelevant; relevant; partly relevant; irrelevant,True,True,True
+470,primary,relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,False
+471,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+473,primary,partly relevant; relevant; partly relevant; partly relevant; relevant; relevant; partly relevant,True,True,True
+476,primary,relevant; relevant; partly relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+194,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,True
+197,primary,relevant; relevant; relevant; partly relevant; relevant; partly relevant; relevant,True,True,False
+204,primary,irrelevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+207,primary,relevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; partly relevant,True,True,False
+209,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant,False,False,True
+214,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+222,primary,irrelevant; partly relevant; relevant; irrelevant; relevant; partly relevant; irrelevant,True,True,False
+224,primary,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant,False,False,False
+229,primary,relevant; partly relevant; relevant; relevant; relevant; relevant; relevant,True,True,False
+237,primary,partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,False
+241,primary,partly relevant; irrelevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+244,primary,partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,True
+245,primary,irrelevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,True
+251,primary,relevant; relevant; partly relevant; partly relevant; relevant; relevant; partly relevant,True,True,False
+252,primary,partly relevant; irrelevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+259,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+277,primary,partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+285,primary,partly relevant; irrelevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant,False,False,False
+292,primary,partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+293,primary,relevant; relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,True,True,False
+299,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+301,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+304,primary,relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,False
+305,primary,partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,True
+306,primary,irrelevant; partly relevant; partly relevant; relevant; relevant; irrelevant; partly relevant,True,True,False
+309,primary,partly relevant; partly relevant; partly relevant; relevant; partly relevant; irrelevant; irrelevant,True,True,False
+317,primary,relevant; relevant; relevant; relevant; irrelevant; partly relevant; partly relevant,True,True,True
+320,primary,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+322,primary,irrelevant; irrelevant; relevant; relevant; relevant; irrelevant; irrelevant,True,True,False
+324,primary,partly relevant; irrelevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant,False,False,True
+325,primary,irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,True
+349,primary,partly relevant; partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+362,primary,relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; irrelevant; irrelevant,True,True,False
+364,primary,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+365,primary,partly relevant; relevant; relevant; relevant; partly relevant; partly relevant; relevant,True,True,True
+381,primary,partly relevant; relevant; partly relevant; irrelevant; relevant; relevant; partly relevant,True,True,True
+385,primary,irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+387,primary,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+390,primary,irrelevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; relevant; irrelevant,True,True,False
+391,primary,partly relevant; irrelevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant,False,False,True
+440,primary,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+442,primary,partly relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+447,primary,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,False
+449,primary,partly relevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+456,primary,partly relevant; irrelevant; irrelevant; partly relevant; relevant; relevant; partly relevant,True,True,True
+459,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+468,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,False,False
+472,primary,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+477,primary,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,True
+482,primary,relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+188,primary,relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant,False,True,True
+189,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,True,True,True
+205,primary,relevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant,True,True,False
+211,primary,irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,False,True
+213,primary,partly relevant; partly relevant; irrelevant; relevant; relevant; irrelevant; irrelevant,True,True,True
+225,primary,relevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant; partly relevant,True,True,True
+231,primary,partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+239,primary,partly relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+240,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; irrelevant; partly relevant,True,True,False
+242,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,False,True,True
+256,primary,partly relevant; relevant; irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,True,False
+261,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+267,primary,partly relevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant,True,True,False
+269,primary,irrelevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,True,False
+272,primary,relevant; relevant; relevant; relevant; relevant; relevant; partly relevant,True,True,False
+273,primary,relevant; irrelevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,False,True,True
+280,primary,relevant; partly relevant; relevant; irrelevant; relevant; irrelevant; irrelevant,True,True,True
+287,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant; partly relevant,False,False,False
+314,primary,relevant; relevant; irrelevant; relevant; irrelevant; irrelevant; irrelevant,True,True,True
+321,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+323,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,True
+326,primary,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,True
+330,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,True
+336,primary,partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,False,False,False
+337,primary,irrelevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,True
+339,primary,relevant; partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,False
+363,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant,False,False,True
+368,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+372,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+376,primary,partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+378,primary,irrelevant; irrelevant; irrelevant; relevant; irrelevant; partly relevant; partly relevant; irrelevant,False,True,False
+380,primary,irrelevant; relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,False
+389,primary,partly relevant; irrelevant; partly relevant; relevant; partly relevant; irrelevant; partly relevant,True,True,True
+399,primary,partly relevant; relevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,True,True
+405,primary,partly relevant; partly relevant; relevant; relevant; relevant; partly relevant; relevant,True,True,True
+417,primary,partly relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+428,primary,relevant; relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant,True,True,False
+429,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant,False,False,False
+433,primary,relevant; relevant; irrelevant; partly relevant; partly relevant; partly relevant; partly relevant,False,True,True
+435,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+439,primary,partly relevant; relevant; relevant; relevant; partly relevant; partly relevant; relevant; irrelevant,True,True,True
+443,primary,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+446,primary,relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; relevant,True,True,False
+452,primary,partly relevant; relevant; relevant; irrelevant; irrelevant; relevant; irrelevant; partly relevant,True,True,False
+455,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,True
+457,primary,irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+461,primary,relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,True
+462,primary,partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+464,primary,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+467,primary,partly relevant; partly relevant; relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+187,primary,partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+191,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+199,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+202,primary,relevant; partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant,False,False,True
+206,primary,partly relevant; relevant; relevant; relevant; irrelevant; irrelevant; partly relevant,True,True,False
+210,primary,relevant; relevant; partly relevant; relevant; relevant; partly relevant; relevant,True,True,False
+226,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+230,primary,relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+234,primary,irrelevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant; partly relevant,False,False,True
+247,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; irrelevant; partly relevant,True,True,False
+254,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+257,primary,relevant; relevant; partly relevant; relevant; partly relevant; irrelevant; partly relevant,True,True,False
+274,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,False
+276,primary,irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,True
+282,primary,partly relevant; irrelevant; partly relevant; irrelevant; partly relevant; irrelevant; partly relevant,False,False,False
+284,primary,partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+289,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+300,primary,relevant; partly relevant; partly relevant; partly relevant; relevant; relevant; partly relevant,True,True,False
+303,primary,partly relevant; relevant; relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+308,primary,partly relevant; relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,False
+313,primary,partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+341,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; relevant; partly relevant,True,True,True
+345,primary,partly relevant; relevant; relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+346,primary,relevant; relevant; partly relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+350,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,True
+351,primary,relevant; relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant,True,True,False
+353,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+355,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+361,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,True,True
+367,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,False,True
+388,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+411,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+416,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+418,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+419,primary,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+420,primary,partly relevant; relevant; partly relevant; partly relevant; relevant; relevant; partly relevant,True,True,False
+422,primary,relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+430,primary,relevant; relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+438,primary,relevant; relevant; relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,False
+444,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+445,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+448,primary,partly relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,True
+450,primary,relevant; partly relevant; relevant; relevant; partly relevant; relevant; relevant,True,True,True
+451,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+454,primary,relevant; partly relevant; irrelevant; partly relevant; relevant; irrelevant; partly relevant; irrelevant,True,True,False
+460,primary,relevant; partly relevant; partly relevant; relevant; relevant; relevant; relevant,True,True,True
+466,primary,partly relevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,True
+474,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,True,True
+475,primary,relevant; partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,True
+481,primary,relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+190,primary,relevant; partly relevant; relevant; partly relevant; irrelevant; irrelevant; relevant,True,True,False
+193,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+198,primary,partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; partly relevant,False,False,False
+208,primary,partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant,False,False,False
+217,primary,partly relevant; partly relevant; relevant; relevant; irrelevant; partly relevant; partly relevant,True,True,False
+218,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+227,primary,partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+233,primary,relevant; relevant; relevant; relevant; relevant; relevant; partly relevant,True,True,False
+236,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+238,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,True
+243,primary,relevant; relevant; relevant; relevant; partly relevant; relevant; relevant,True,True,False
+248,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,True
+250,primary,partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,True
+253,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,False,False
+255,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+262,primary,relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant,True,True,False
+265,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+270,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+279,primary,partly relevant; relevant; relevant; relevant; relevant; relevant; partly relevant,True,True,False
+281,primary,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant,False,False,False
+291,primary,partly relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant; relevant,True,True,True
+311,primary,relevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant; partly relevant,True,True,False
+327,primary,relevant; relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+329,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+332,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,True
+340,primary,relevant; relevant; relevant; relevant; relevant; relevant; partly relevant,True,True,False
+344,primary,partly relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+347,primary,irrelevant; irrelevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,True
+348,primary,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+352,primary,partly relevant; relevant; irrelevant; irrelevant; irrelevant; partly relevant; partly relevant,False,False,False
+354,primary,irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; partly relevant; partly relevant,False,False,True
+366,primary,partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+370,primary,relevant; partly relevant; partly relevant; irrelevant; relevant; partly relevant; partly relevant,True,True,False
+374,primary,partly relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+393,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant,False,False,True
+394,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+396,primary,partly relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+398,primary,partly relevant; irrelevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+402,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant,False,False,True
+406,primary,relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,True,True,False
+408,primary,partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,True,True
+409,primary,partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+412,primary,relevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant,True,True,True
+413,primary,partly relevant; partly relevant; relevant; relevant; relevant; relevant; partly relevant,True,True,False
+424,primary,partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+431,primary,relevant; partly relevant; partly relevant; relevant; relevant; partly relevant; irrelevant,True,True,False
+432,primary,partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; relevant,True,True,False
+465,primary,partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,True
+483,primary,relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+485,primary,partly relevant; irrelevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,False
+192,primary,partly relevant; partly relevant; relevant; partly relevant; partly relevant; irrelevant; irrelevant,True,True,False
+195,primary,relevant; partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,False
+200,primary,relevant; partly relevant; relevant; partly relevant; irrelevant; partly relevant; partly relevant,False,True,False
+201,primary,partly relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,False,False
+203,primary,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+212,primary,partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+220,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,False,True,True
+221,primary,partly relevant; partly relevant; partly relevant; relevant; irrelevant; relevant; partly relevant,True,True,False
+228,primary,partly relevant; partly relevant; relevant; partly relevant; irrelevant; irrelevant; irrelevant,True,True,False
+235,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; partly relevant,False,False,True
+246,primary,partly relevant; relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant,True,True,False
+249,primary,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+258,primary,relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+263,primary,relevant; relevant; partly relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+264,primary,irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+268,primary,partly relevant; partly relevant; relevant; partly relevant; relevant; partly relevant; relevant,True,True,False
+271,primary,partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,True
+275,primary,partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+278,primary,relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant; irrelevant,False,True,False
+283,primary,relevant; irrelevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+290,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+296,primary,partly relevant; partly relevant; relevant; partly relevant; relevant; partly relevant; partly relevant,False,True,True
+298,primary,relevant; partly relevant; irrelevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+302,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant,False,False,False
+307,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; relevant,True,True,False
+312,primary,relevant; irrelevant; partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant,True,True,False
+315,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+319,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,True
+328,primary,partly relevant; partly relevant; partly relevant; partly relevant; relevant; relevant; partly relevant; irrelevant,True,True,True
+333,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,True,True,False
+335,primary,relevant; relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+338,primary,relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,False
+342,primary,irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; partly relevant,False,False,False
+356,primary,relevant; partly relevant; relevant; irrelevant; relevant; irrelevant; partly relevant,True,True,False
+369,primary,relevant; partly relevant; partly relevant; partly relevant; relevant; relevant; partly relevant,True,True,False
+377,primary,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+395,primary,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+400,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,False
+401,primary,partly relevant; relevant; partly relevant; relevant; relevant; partly relevant; partly relevant,False,True,True
+404,primary,relevant; irrelevant; partly relevant; relevant; partly relevant; irrelevant; partly relevant,True,True,False
+415,primary,irrelevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+421,primary,partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; relevant,True,True,True
+423,primary,partly relevant; relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+426,primary,relevant; relevant; partly relevant; relevant; relevant; relevant; partly relevant,True,True,False
+437,primary,irrelevant; irrelevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,False
+441,primary,partly relevant; irrelevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant,False,False,False
+478,primary,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+479,primary,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+480,primary,irrelevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,False
+484,primary,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,True
+186,second,relevant; irrelevant; relevant; partly relevant; irrelevant; irrelevant; partly relevant,True,True,False
+201,second,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+202,second,relevant; partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant,False,False,True
+204,second,irrelevant; relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+212,second,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+219,second,relevant; relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,True,True,False
+223,second,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+242,second,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,True,True,False
+248,second,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,True
+249,second,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+253,second,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,True
+255,second,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+263,second,relevant; relevant; partly relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+264,second,irrelevant; partly relevant; irrelevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+274,second,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,False,False,True
+281,second,relevant; partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; irrelevant,False,False,True
+283,second,relevant; irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,False
+284,second,partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+286,second,partly relevant; relevant; partly relevant; partly relevant; partly relevant; relevant; partly relevant,True,True,False
+290,second,irrelevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+295,second,relevant; partly relevant; relevant; irrelevant; partly relevant; relevant; irrelevant,True,True,False
+304,second,relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,True,True,False
+310,second,relevant; partly relevant; partly relevant; relevant; partly relevant; partly relevant; irrelevant,True,True,False
+312,second,relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,True,True,False
+317,second,relevant; relevant; partly relevant; relevant; irrelevant; partly relevant; partly relevant,True,True,True
+319,second,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,True
+323,second,partly relevant; partly relevant; partly relevant; partly relevant; relevant; relevant; partly relevant,True,True,True
+326,second,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,True
+333,second,relevant; partly relevant; partly relevant; partly relevant; partly relevant; irrelevant; irrelevant,False,True,False
+338,second,relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+356,second,relevant; partly relevant; relevant; irrelevant; relevant; irrelevant; partly relevant,True,True,False
+359,second,relevant; relevant; relevant; relevant; relevant; relevant; irrelevant; irrelevant,True,True,False
+362,second,relevant; partly relevant; partly relevant; relevant; irrelevant; partly relevant; irrelevant; irrelevant,True,True,False
+364,second,partly relevant; irrelevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+370,second,relevant; partly relevant; partly relevant; irrelevant; relevant; partly relevant; partly relevant,True,True,False
+371,second,relevant; relevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant,True,True,False
+373,second,partly relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True
+380,second,irrelevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+382,second,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,True
+390,second,irrelevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; relevant; irrelevant,True,True,False
+396,second,partly relevant; relevant; relevant; relevant; relevant; partly relevant; partly relevant,True,True,False
+397,second,partly relevant; partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+412,second,relevant; relevant; partly relevant; partly relevant; irrelevant; partly relevant; partly relevant,True,True,True
+414,second,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+416,second,irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+423,second,partly relevant; relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,True,True,True
+424,second,partly relevant; partly relevant; irrelevant; partly relevant; partly relevant; partly relevant; irrelevant,False,False,False
+430,second,relevant; relevant; relevant; partly relevant; irrelevant; relevant; partly relevant,True,True,False
+438,second,relevant; partly relevant; relevant; partly relevant; partly relevant; partly relevant; partly relevant,True,True,False
+443,second,partly relevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant; irrelevant,False,False,False
+448,second,partly relevant; relevant; relevant; relevant; relevant; partly relevant; irrelevant,True,True,False
+453,second,partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant; partly relevant,False,False,False
+457,second,irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+467,second,partly relevant; partly relevant; relevant; relevant; partly relevant; relevant; partly relevant,True,True,False
+469,second,relevant; partly relevant; relevant; irrelevant; relevant; partly relevant; irrelevant,True,True,True
+472,second,partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,False
+478,second,partly relevant; partly relevant; partly relevant; irrelevant; irrelevant; partly relevant; irrelevant,False,False,False
+479,second,partly relevant; partly relevant; partly relevant; irrelevant; partly relevant; irrelevant; irrelevant,False,False,True
+480,second,irrelevant; irrelevant; irrelevant; partly relevant; irrelevant; irrelevant; irrelevant,False,False,False
+482,second,relevant; partly relevant; relevant; relevant; partly relevant; partly relevant; partly relevant,True,True,True

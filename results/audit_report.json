@@ -1,0 +1,111 @@
+{
+  "passages": {
+    "total": 2119,
+    "relevant": 444,
+    "partial": 1074,
+    "irrelevant": 601
+  },
+  "questions": {
+    "total": 300,
+    "any_relevant_passage": 182,
+    "no_relevant_or_partial": 12,
+    "sufficient": 159,
+    "supports_key": 175,
+    "supports_other_option": 100
+  },
+  "agreement": {
+    "questions": 60,
+    "passages": 427,
+    "passage_weighted_kappa": 0.8914614395793541,
+    "passage_exact_agreement": 0.9180327868852459,
+    "sufficient_agreement": 0.9166666666666666,
+    "sufficient_kappa": 0.8333333333333334,
+    "supports_key_agreement": 0.9666666666666667,
+    "supports_key_kappa": 0.9332591768631813
+  },
+  "classification_all_pairs": {
+    "pairs": 3000,
+    "by_kind": {
+      "both correct": 2223,
+      "both wrong": 484,
+      "broken": 160,
+      "corrected": 133
+    },
+    "classes": [
+      {
+        "kind": "broken",
+        "class": "misleading retrieval",
+        "n": 63
+      },
+      {
+        "kind": "broken",
+        "class": "reader failure",
+        "n": 38
+      },
+      {
+        "kind": "broken",
+        "class": "retrieval failure",
+        "n": 59
+      },
+      {
+        "kind": "corrected",
+        "class": "not from passages",
+        "n": 54
+      },
+      {
+        "kind": "corrected",
+        "class": "supplied by passages",
+        "n": 79
+      }
+    ],
+    "sufficient_rate_by_kind": {
+      "both correct": 0.5721997300944669,
+      "both wrong": 0.3574380165289256,
+      "broken": 0.4125,
+      "corrected": 0.5939849624060151
+    }
+  },
+  "classification_matched_documents": {
+    "pairs": 2435,
+    "by_kind": {
+      "both correct": 1831,
+      "both wrong": 372,
+      "broken": 136,
+      "corrected": 96
+    },
+    "classes": [
+      {
+        "kind": "broken",
+        "class": "misleading retrieval",
+        "n": 53
+      },
+      {
+        "kind": "broken",
+        "class": "reader failure",
+        "n": 30
+      },
+      {
+        "kind": "broken",
+        "class": "retrieval failure",
+        "n": 53
+      },
+      {
+        "kind": "corrected",
+        "class": "not from passages",
+        "n": 35
+      },
+      {
+        "kind": "corrected",
+        "class": "supplied by passages",
+        "n": 61
+      }
+    ],
+    "sufficient_rate_by_kind": {
+      "both correct": 0.5783724740578918,
+      "both wrong": 0.40860215053763443,
+      "broken": 0.4117647058823529,
+      "corrected": 0.6354166666666666
+    }
+  },
+  "matched_document_pairs": 2435
+}
