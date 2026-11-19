@@ -14,6 +14,7 @@ Ten language models answered the same 300 multiple-choice questions twice: once 
 | `results/` | The tables and summary statistics reported in the paper |
 | `code/` | Generation runner, statistical analysis and audit analysis scripts |
 | `prompts/prompts.md` | Exact system and user prompts |
+| `faithfulness_check/` | The context-utilization check (29 August 2026): each model was given an invented framework, the "Danvics-Okafor criteria", and asked a question only it answers. `check.md` has the method and results, `log.md` the probe script and every model's full answer |
 | `config/` | Gateway configuration for the 10 study models (provider-pinned, no fallback, temperature 0) |
 
 ## Runs
