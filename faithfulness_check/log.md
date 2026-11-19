@@ -1,8 +1,6 @@
-# Retrieval faithfulness log
+# Context-utilization check: log
 
-Raw output from the retrieval faithfulness probe run on 29 August 2026.
-Companion evidence for `check.md`. Full untruncated
-answers from all 11 models, plus the exact probe script.
+The probe script and every model's full answer, unedited, from the run on 29 August 2026. Method and results are in `check.md`.
 
 ---
 
